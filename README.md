@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maswirasuria
 - 👀 I’m interested in Web & Mobile Development
-- 🌱 I’m currently learning Swift with Xcode
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Blockchain with Solidity
+- 💞️ I’m looking to collaborate on Aviation Industry
 - 📫 How to reach me https://www.linkedin.com/in/maswirasuria
 
 <!---
